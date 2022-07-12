@@ -1,0 +1,19 @@
+.inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+.inner ul{
+    display: flex;
+}
+.name-list{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: rgb(184, 166, 234);
+    color: #572bbb;
+    padding: 15px;
+    margin: 20px;
+    font-size: 14px;
+    font-weight: 700;
+    box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+}

@@ -1,0 +1,37 @@
+[
+      {
+        "id": 1,
+        "name": "조예진",
+        "email": "dpwls3334@naver.com",
+        "tel": "01067577180",
+        "nickname": "예진"
+      },
+      {
+        "id": 2,
+        "name": "김혜인",
+        "email": "asd@naver.com",
+        "tel": "01023482934",
+        "nickname": "혜인"
+      },
+      {
+        "id": 3,
+        "name": "서윤하",
+        "email": "sdfg@naver.com",
+        "tel": "01044832942",
+        "nickname": "윤하"
+      },
+      {
+        "id": 4,
+        "name": "정지영",
+        "email": "lfnm@naver.com",
+        "tel": "01004837293",
+        "nickname": "지영"
+      },
+      {
+        "id": 5,
+        "name": "정지혜",
+        "email": "fjfo@naver.com",
+        "tel": "01084836242",
+        "nickname": "지혜"
+      }
+]
